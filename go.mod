@@ -21,14 +21,12 @@ require (
 	github.com/stretchr/testify v1.7.1 // indirect
 	github.com/tklauser/go-sysconf v0.3.10 // indirect
 	github.com/ugorji/go v1.2.7 // indirect
-	github.com/xtls/xray-core v1.5.4
+	github.com/xtls/xray-core v1.5.5
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
 	go.uber.org/atomic v1.9.0
 	golang.org/x/crypto v0.0.0-20220411220226-7b82a4e95df4 // indirect
-	golang.org/x/net v0.0.0-20220403103023-749bd193bc2b // indirect
 	golang.org/x/text v0.3.7
-	google.golang.org/genproto v0.0.0-20220401170504-314d38edb7de // indirect
-	google.golang.org/grpc v1.45.0
+	google.golang.org/grpc v1.46.0
 	gorm.io/driver/sqlite v1.3.1
 	gorm.io/gorm v1.23.4
 )
