@@ -17,11 +17,11 @@ require (
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/tklauser/go-sysconf v0.3.10 // indirect
 	github.com/ugorji/go v1.2.7 // indirect
-	github.com/xtls/xray-core v1.5.5
+	github.com/xtls/xray-core v1.5.10
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
 	go.uber.org/atomic v1.9.0
 	golang.org/x/text v0.3.7
-	google.golang.org/grpc v1.46.0
+	google.golang.org/grpc v1.49.0
 	gorm.io/driver/sqlite v1.3.2
 	gorm.io/gorm v1.23.5
 )
