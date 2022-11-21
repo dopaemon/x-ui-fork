@@ -20,8 +20,8 @@ require (
 	github.com/xtls/xray-core v1.5.5
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
 	go.uber.org/atomic v1.9.0
-	golang.org/x/text v0.3.7
-	google.golang.org/grpc v1.46.0
+	golang.org/x/text v0.4.0
+	google.golang.org/grpc v1.51.0
 	gorm.io/driver/sqlite v1.3.2
 	gorm.io/gorm v1.23.5
 )
