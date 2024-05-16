@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/BurntSushi/toml v1.1.0
-	github.com/Workiva/go-datastructures v1.0.53
+	github.com/Workiva/go-datastructures v1.1.5
 	github.com/gin-contrib/sessions v0.0.5
 	github.com/gin-gonic/gin v1.7.7
 	github.com/go-playground/validator/v10 v10.10.1 // indirect
